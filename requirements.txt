@@ -1,0 +1,9 @@
+```
+langchain
+langchain-groq
+langchain-community
+langgraph
+wikipedia
+duckduckgo-search
+python-dotenv
+```
