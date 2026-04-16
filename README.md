@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Agent-green?logo=langchain)
+![LangGraph](https://img.shields.io/badge/LangGraph-Memory-blueviolet?logo=langchain)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange?logo=groq)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-red?logo=duckduckgo)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🤖 Research Agent
 
 A conversational research assistant built with LangChain and Groq. The agent autonomously selects the right tool based on your question — Wikipedia for encyclopedic knowledge, web search for current events, and a calculator for math.
